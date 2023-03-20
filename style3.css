@@ -1,0 +1,168 @@
+body{
+    
+    background-color: grey;
+}
+
+.top{
+    border:7px solid red;
+    border-radius: 10px;
+    width: 30%;
+    height: 20%;
+    left:30%;
+    text-align: center;
+    position: relative;
+    background-color: white;
+    color: rgb(160, 21, 21);
+    font-style: italic;
+    margin: 2px;
+    display: inline-block;
+    box-shadow: 7px 7px 2px purple;
+    text-shadow: 1px 1px 2px rgb(160, 21, 21);
+}
+
+.Address{
+    margin: 2px;
+    border: 7px solid red;
+    border-radius: 10px;
+    width: 20%;
+    height: 250px;
+    text-align: center;
+    background-color: white;
+    text-shadow: 1px 1px 2px purple;
+    box-shadow: 7px 7px 2px purple;
+    position: relative;
+    display: inline-block;
+}
+
+.container{
+    border: 8px solid green;
+    height: 660px;
+}
+
+.bag{
+    
+    left:1000px;
+    top:190px;
+    position: absolute;
+    border: 7px solid red;
+    border-radius: 10px;
+    box-shadow: 7px 7px 0px 0px purple;
+    padding: 20px;
+    
+}
+
+.th1{
+    font-size: 20px;
+    padding: 10px;
+}
+.th2{
+    left:7cm;
+    position: absolute;
+    padding: 10px;
+}
+
+.web{
+    border: 7px solid red;
+    border-radius: 10px;
+    box-shadow: 7px 7px 2px purple;
+    width: 250px;
+    background-color: white;
+    text-shadow: 1px 1px 2px purple;
+    position: absolute;
+    top: 15cm;
+    text-align: left;
+}
+
+.form{
+    border: 7px solid red;
+    border-radius: 10px;
+    box-shadow: 7px 7px 2px purple;
+    background-color: white;
+    width: 17%;
+    height: 200px;
+    top: 15cm;
+    left: 27cm;
+    position: absolute;
+    padding: 10px;
+    text-shadow: 1px 1px 2px purple;
+}
+
+.f1{
+    text-align:center; 
+}
+
+.f2{
+    text-align:center;
+    
+}
+input[type=submit]{
+background-color: red;
+border-radius: 10px;
+}
+
+.container1{
+border: 7px solid purple;
+position: absolute;
+top: 23cm;
+width: 53%;
+text-align: center;
+left: 6cm;
+height: 600px;
+background-color: green;
+}
+
+.head{
+height: 80px; 
+padding: 0px;
+position: absolute;
+width: 18.9cm;
+}
+
+.fruits{
+    position: absolute;
+    bottom: 250px;
+    background-color: rgb(172, 236, 241);
+    padding: 10px;
+    line-height: 30px;
+    height: 240px;
+}
+
+.vege{
+    position: absolute;
+    left:9.9cm;
+    bottom: 250px;
+    background-color: rgb(172, 236, 241);
+    padding: 10px;
+    width: 320px;
+}
+
+.other{
+    
+    position: absolute;
+    background-color: rgb(172, 236, 241);
+    padding: 10px;
+    width: 700px;
+    line-height: 30px;
+    height: 200px;
+    text-align: center;
+    right: 1px;
+    top:280px;
+
+}
+
+.offer{
+    position: fixed;
+    border: 7px solid red;
+    border-radius: 10px;
+    box-shadow: 7px 7px 0px 0px purple;
+    width: 400px;
+    height:60px;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(148, 219, 42);
+    font-style: italic;
+    left: 10cm;
+    bottom:1cm;
+    color:  rgb(160, 21, 21);
+    
+}
